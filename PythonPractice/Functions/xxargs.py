@@ -1,5 +1,8 @@
 def save_user(**user):
+    print(user["id"])
     print(user["name"])
+    print(user["age"])
+
 
 #instead of arbitrary values
 #we can send arbitrary keyword argument
