@@ -1,0 +1,9 @@
+home = beginning of the line
+end = end of the line
+ctrl + home = beginning of file
+ctrl + end = end of file 
+alt + direction arrow key = move a line, or multiple lines (must select multiple first)
+shift + alt + direction key = duplicate lines
+ctrl + slash = toggle comments
+couple of first letter of variable = autocomplete
+letters included in variable = autocomplete
