@@ -13,3 +13,9 @@ first = [1,2]
 second = [3]
 values = [*first, "a", *second, *"Hello"]
 print(values)
+
+#for dictionaries
+first = {"x": 1}
+second = {"x": 10, "y": 2}
+combined = {**first, **second, "z" : 1}
+print(combined)
