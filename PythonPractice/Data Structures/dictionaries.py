@@ -1,4 +1,4 @@
-#a collectino of key value pair. We use it to map key to values.
+#a collection of key value pair. We use it to map key to values.
 #an example would be a phonebook name -> contact
 
 point = {"x" : 1, "y" : 2} 

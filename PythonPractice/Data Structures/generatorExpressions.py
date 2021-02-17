@@ -24,3 +24,5 @@ values3 = [x * 2 for x in range(100000)]
 print("list:", getsizeof(values3))
 
 
+
+

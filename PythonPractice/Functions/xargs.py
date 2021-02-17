@@ -15,6 +15,5 @@ def multiply(*numbers):
         total *= number
     return total
 
-
 value = multiply(2,3,4,5)
 print(value)

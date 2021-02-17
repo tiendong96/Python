@@ -17,5 +17,7 @@ print(values)
 #for dictionaries
 first = {"x": 1}
 second = {"x": 10, "y": 2}
-combined = {**first, **second, "z" : 1}
+combined = {**first, **second, "z" : 1} 
 print(combined)
+
+#we can use unpacking operator to take out values in any iterable
